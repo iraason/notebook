@@ -2,10 +2,10 @@ git config --global user.email "yungxeon@gmail.com"
 git config --global user.name "yungxeon"
 
 ##### 创建一个空目录
-> mkdir test
+> mkdir test
 
 ##### 把这个目录变成Git可以管理的仓库
-> git init
+> git init
 
 ##### 把文件添加到仓库
 > git add readme.txt
@@ -23,7 +23,7 @@ git config --global user.name "yungxeon"
 ##### 通过commit id回退到某一个版本
 > git reset --hard 《commitId》
 
-##### 退到上两个版本
+##### 退到上两个版本
 > git reset --hard HEAD^^
 
 ##### 查看历史git命令

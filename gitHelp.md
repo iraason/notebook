@@ -2,7 +2,7 @@ git config --global user.email "yungxeon@gmail.com"
 git config --global user.name "yungxeon"
 
 ##### 创建一个空目录
-> mkdir learngit
+> mkdir test
 
 ##### 把这个目录变成Git可以管理的仓库
 > git init
